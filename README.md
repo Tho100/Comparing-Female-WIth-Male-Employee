@@ -1,5 +1,6 @@
 # Male Employee Salary Data
-![Screenshot_7](https://user-images.githubusercontent.com/64541739/151507926-755e4b9e-00f7-4408-9a03-751b5e4efc30.png)
+![Screenshot_2](https://user-images.githubusercontent.com/64541739/153712796-b15fa5f2-26ac-4a40-b061-c1f60eb89ea8.png)
 
 # Female Employee Salary Data
-![Screenshot_8](https://user-images.githubusercontent.com/64541739/151507917-729ad5e4-d8a9-4efb-9cdd-d0c157f138b3.png)
+![Screenshot_1](https://user-images.githubusercontent.com/64541739/153712798-2d4254a8-ff3b-4362-831f-0e31bf7f6736.png)
+
